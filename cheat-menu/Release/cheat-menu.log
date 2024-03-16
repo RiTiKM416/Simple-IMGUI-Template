@@ -1,0 +1,10 @@
+﻿  gui.cpp
+C:\Users\Administrator\Desktop\imgui\imgui-window\cheat\gui.cpp(291,28): error C2228: left of '.empty' must have class/struct/union
+  C:\Users\Administrator\Desktop\imgui\imgui-window\cheat\gui.cpp(291,28):
+  type is 'const char *'
+  
+C:\Users\Administrator\Desktop\imgui\imgui-window\cheat\gui.cpp(295,37): error C2039: 'GetImage': is not a member of 'ImGui'
+  C:\Users\Administrator\Desktop\imgui\imgui-window\imgui\imgui.h(2832,11):
+  see declaration of 'ImGui'
+  
+C:\Users\Administrator\Desktop\imgui\imgui-window\cheat\gui.cpp(295,37): error C3861: 'GetImage': identifier not found
